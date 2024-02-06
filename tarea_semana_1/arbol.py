@@ -28,7 +28,7 @@ H['hijo'] = [M, N, O, P]
 K['hijo'] = [Q, R]
 N['hijo'] = [S]
 
-# Ejemplo de cómo acceder a los hijos de un nodo
+
 # print("Los hijos de A son:")
 # for child in A['hijo']:
 #     print(child['data'])
